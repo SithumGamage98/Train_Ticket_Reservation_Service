@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Pro Work\AssignmentSaga\prowork13\WebSevice\WebSevice\obj\Release\Package\PackageTmp" />
+  <setAcl path="E:\Pro Work\AssignmentSaga\prowork13\WebSevice\WebSevice\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\Pro Work\AssignmentSaga\prowork13\WebSevice\WebSevice\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
